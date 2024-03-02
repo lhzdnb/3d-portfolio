@@ -3,26 +3,20 @@ import {
   sjtuRed,
   usc,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
   redux,
   tailwind,
-  nodejs,
-  mongodb,
   git,
-  figma,
-  docker,
-  meta,
+  python,
   eoi,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
   threejs,
   siemens,
+  cpp,
 } from "../assets";
 
 export const navLinks = [
@@ -73,10 +67,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -89,28 +79,16 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "python",
+    icon: python,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "C++",
+    icon: cpp,
   },
 ];
 
