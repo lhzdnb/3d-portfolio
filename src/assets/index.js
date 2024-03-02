@@ -8,6 +8,9 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import sjtu from "./sjtu.png";
 import usc from "./USC.png";
+import sjtuRed from "./SJTU_emblem.svg.png";
+import eoi from "./eoi.png";
+import siemens from "./siemens.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -63,4 +66,7 @@ export {
   tripguide,
   sjtu,
   usc,
+  sjtuRed,
+  eoi,
+  siemens,
 };
