@@ -2,7 +2,8 @@ import {
   mobile,
   backend,
   creator,
-  web,
+  sjtu,
+  usc,
   javascript,
   typescript,
   html,
@@ -42,20 +43,20 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
-    icon: web,
+    title: "SJTU Undergraduate Student",
+    icon: sjtu,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
+    title: "USC Graduate Student",
+    icon: usc,
   },
   {
-    title: "Backend Developer",
-    icon: backend,
+    title: "JavaScript Developer",
+    icon: javascript,
   },
   {
-    title: "Content Creator",
-    icon: creator,
+    title: "React Developer",
+    icon: reactjs,
   },
 ];
 
