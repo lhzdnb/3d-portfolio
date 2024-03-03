@@ -220,11 +220,11 @@ const projects = [
       "GPT, implemented through OpenAI's gpt-3.5-turbo api, in addition to being able to chat, also realizes the function of generating the travel plan of the city entered by the user, and at the same time generates photos of that city.",
     tags: [
       {
-        name: "nextjs",
+        name: "Next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "primsa",
+        name: "prisma",
         color: "green-text-gradient",
       },
       {
