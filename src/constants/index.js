@@ -102,7 +102,7 @@ const experiences = [
     points: [
       "Won the Student Development Scholarship.",
       "2021‑2022 Undergraduate Excellent Scholarship.",
-      "Completion of the undergraduate program in 3 years and participation in the 3+2 program with USC.",
+      "After completing the undergraduate program in three years, he was nominated by the faculty to participate in the 3+2 program with the University of Southern California.",
       "Teaching Assistant Leader of Physics Lab II.",
     ],
   },
@@ -124,9 +124,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "January 2023 - March 2023",
     points: [
-      'Led the "UI automation testing" project using Selenium and MeterSphere, improving script production efficiency by 40%.',
-      "Conducted research in automation technology to enhance script production.",
-      "Analyzed test requirements, developed and executed test cases with thorough documentation.",
+      "Led UI automation testing project, improving script development efficiency by 40% through Selenium and MeterSphere, reducing test cycle time and increasing project delivery speed.",
+      "Led the research on automation technology to automate UI testing and accelerate the software release process by optimizing the structure and logic of test scripts.",
+      "Meticulously analyze project testing requirements, design and execute test case sets with 95% coverage to ensure software quality, as well as prepare detailed testing documentation to support team knowledge sharing.",
     ],
   },
   {
@@ -136,9 +136,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "March 2023 - August 2023",
     points: [
-      "Conducted field inspections at the production frontline for operational insight.",
-      "Acquired hands‑on skills and knowledge in embedded system engineering through close collaboration with experienced engineers.",
-      "Followed the quality assurance program diligently, overseeing process checks and ensuring thorough testing of systems.",
+      "Conduct site visits on the front lines of production to get a feel for the operation.",
+      "Acquired hands-on skills and knowledge in embedded systems engineering by working closely with experienced engineers, successfully applied in 2 production projects.",
+      "Write test cases for embedded systems and perform rigorous testing to ensure product quality.",
     ],
   },
 ];
