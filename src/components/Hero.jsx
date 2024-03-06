@@ -17,8 +17,9 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]">Hao</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am a graduate student <br className="sm:block hidden" /> majoring
-            in Computer Engineering.
+            {/*I am a graduate student <br className="sm:block hidden" /> majoring*/}
+            {/*in Computer Engineering.*/}
+            我是一名计算机工程的研究生
           </p>
         </div>
       </div>

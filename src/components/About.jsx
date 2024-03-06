@@ -39,15 +39,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Graduate Computer Engineering student at the University of
-        Southern California, passionately pursuing a career in front-end
-        development. With a solid grounding in both theoretical and practical
-        aspects of software engineering, I am keen to apply my skills in a
-        dynamic team setting. My focus on mastering front-end technologies, such
-        as JavaScript and React, complements my problem-solving abilities,
-        making me an asset in tackling real-world software challenges. Eager to
-        contribute, learn, and grow, I aim to be not just a technically
-        proficient engineer, but a collaborative and innovative team member.
+        本人具备扎实的软件工程理论和实践基础，并对成为一名技术精湛的web前端开发工程师充满热情。追求在充满活力的团队中不断学习与成长，旨在贡献我的技术力量，并通过协作与创新，推动项目成功。期待在一个能够挑战自我、促进个人与团队共同进步的环境中发挥我的潜力。
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
