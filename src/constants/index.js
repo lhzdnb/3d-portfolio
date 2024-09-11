@@ -12,11 +12,11 @@ import {
   python,
   eoi,
   socket,
-  threejs,
   siemens,
   cpp,
   crimela,
   lhzdnbgpt,
+  tencent,
 } from "../assets";
 
 export const navLinks = [
@@ -205,6 +205,22 @@ const experiences = [
       "设计并实施了5种针对新产品的嵌入式Linux系统的测试用例，降低了产品缺陷率15%，确保了超过99%的产品质量合格率。",
     ],
   },
+  {
+    title: "前端开发实习生",
+    company_name: "腾讯",
+    icon: tencent,
+    iconBg: "#E6DEDD",
+    date: "2024年5月 - 2024年8月",
+    points: [
+      "负责公司内部运营平台的商品库管理和价格监控系统的前端开发。通过拦截器中间件新增了商品负责人权限管理，\n" +
+      "提升了系统的安全性和管理效率。",
+      "熟练使用 React 框架进行开发，深入学习 Antd 组件库原理和 MVC 设计模式。使用 Next.js 完成服务端渲\n" +
+      "染，提升首屏页面加载速度，优化了用户体验。",
+      "学习并使用 Webhooks 自动化实现 CI 流程，提升了代码的部署效率和稳定性。",
+      "整理和编写了多个技术文档，包括 Axios 拦截器的源码解析 Antd Form 表单的实现、项目架构和技术\n" +
+      "栈的总结，分享了在项目中遇到的技术问题及解决方案。"
+    ]
+  }
 ];
 
 const projects = [

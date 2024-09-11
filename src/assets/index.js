@@ -11,6 +11,7 @@ import usc from "./USC.png";
 import sjtuRed from "./SJTU_emblem.svg.png";
 import eoi from "./eoi.png";
 import siemens from "./siemens.png";
+import tencent from './tencent.png'
 
 import css from "./tech/css.png";
 import git from "./tech/git.png";
@@ -56,4 +57,5 @@ export {
   siemens,
   python,
   cpp,
+  tencent
 };
